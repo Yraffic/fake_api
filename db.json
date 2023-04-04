@@ -1,11 +1,75 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "name": "men's shoe",
+      "image": "Men's shoe",
+      "categoryID": 1
+    },
+    {
+      "id":2,
+      "name": "female shoe",
+      "image": "Women's shoe",
+      "categoryID": 2
+    },
+    {
+      "id":3,
+      "name": "female shoe",
+      "image": "Women's shoe",
+      "categoryID": 2
+    },
+    {
+      "id":4,
+      "name": "men's shoe",
+      "image": "Men's shoe",
+      "categoryID": 1
+    },
+    {
+      "id":5,
+      "name": "female shoe",
+      "image": "Women's shoe",
+      "categoryID": 2
+    },
+    {
+      "id":6,
+      "name": "Mobile",
+      "image": "Mobile",
+      "categoryID": 3
+    },
+    {
+      "id":7,
+      "name": "Mobile",
+      "image": "Mobile",
+      "categoryID": 3
+    },
+    {
+      "id":8,
+      "name": "Maculine Shirt",
+      "image": "Maculine Shirt",
+      "categoryID": 1
+    },
+    {
+      "id":9,
+      "name": "Female Blouse",
+      "image": "Female Blouse",
+      "categoryID": 2
+    },
+    {
+      "id":10,
+      "name": "Female Blouse",
+      "image": "Female Blouse",
+      "categoryID": 2
+    },
+    {
+      "id":11,
+      "name": "Mobile",
+      "image": "Mobile",
+      "categoryID": 3
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "category":[
+    {"id": 1, "name": "men's items"},
+    {"id": 2, "name": "female items"},
+    {"id": 3, "name": "electronics"}
+  ]
 }
