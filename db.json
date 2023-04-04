@@ -1,4 +1,22 @@
 {
+  "users":[
+    {
+      "id": 1,
+      "name": "yuri raffic",
+      "email": "yuri@teste.com",
+      "password": "12345",
+      "isLogged": false,
+      "shopping": []
+    },
+    {
+      "id": 1,
+      "name": "teste",
+      "email": "teste@teste.com",
+      "password": "12345",
+      "isLogged": false,
+      "shopping": []
+    }
+  ],
   "products": [
     {
       "id":1,
