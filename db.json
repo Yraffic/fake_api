@@ -6,7 +6,7 @@
       "email": "yuri@teste.com",
       "password": "12345",
       "isLogged": false,
-      "shopping": []
+      "cart": []
     },
     {
       "id": 1,
@@ -14,13 +14,14 @@
       "email": "teste@teste.com",
       "password": "12345",
       "isLogged": false,
-      "shopping": []
+      "cart": []
     }
   ],
   "products": [
     {
       "id":1,
       "name": "men's shoe",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
       "categoryID": 1
@@ -28,6 +29,7 @@
     {
       "id":2,
       "name": "female shoe",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
       "categoryID": 2
@@ -35,6 +37,7 @@
     {
       "id":3,
       "name": "female shoe",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
       "categoryID": 2
@@ -42,6 +45,7 @@
     {
       "id":4,
       "name": "men's shoe",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
       "categoryID": 1
@@ -49,6 +53,7 @@
     {
       "id":5,
       "name": "female shoe",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 2
@@ -56,6 +61,7 @@
     {
       "id":6,
       "name": "Mobile",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
       "categoryID": 3
@@ -63,6 +69,7 @@
     {
       "id":7,
       "name": "Mobile",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 3
@@ -70,6 +77,7 @@
     {
       "id":8,
       "name": "Maculine Shirt",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 1
@@ -77,6 +85,7 @@
     {
       "id":9,
       "name": "Female Blouse",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 2
@@ -84,6 +93,7 @@
     {
       "id":10,
       "name": "Female Blouse",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 2
@@ -91,6 +101,7 @@
     {
       "id":11,
       "name": "Mobile",
+      "value": "150000",
       "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       "categoryID": 3
