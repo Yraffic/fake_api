@@ -27,7 +27,17 @@
       "email": "teste@teste.com",
       "password": "12345",
       "isLogged": true,
-      "cart": []
+      "cart": [
+       {
+          "id":1,
+          "productId": 1,
+          "name": "men's shoe",
+          "value": 150000,
+          "description": "Lorem ipsum dolor sit amet. Rem sunt nihil eos dolores internos aut obcaecati eveniet et deleniti culpa qui fugit minus. Qui dolores inventore ad totam dolor ea repudiandae rerum aut nesciunt perferendis. Ut debitis repellat ab perferendis assumenda et inventore cumque et ipsa animi non dicta laudantium aut cumque dolorum At ratione alias.",
+          "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+          "categoryID": 1
+        }
+      ]
     }
   ],
   "products": [
